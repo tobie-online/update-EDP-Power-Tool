@@ -1,10 +1,10 @@
 #edp-power-tool-update 1
-version=8.4.3.0
+version=8.4.4.0
 datei=EDP Power Tool.exe
-sha256=a28c2495412c36daa299edc2de7026d5dc6d3ca5914d3279fdfbb2db0cab0fcb
-groesse=4172800
+sha256=559bf5b69274fb6020baeb5dbf62df90e3334ea565512d0d4a6377b6f99e5a98
+groesse=4173312
 datum=25.10.2026
-hinweise=Das Johanniterkreuz erscheint nur noch mit dem Ring „Johanniter-Unfall-Hilfe“ – auch im kleinen Programmsymbol\nIm Installationsprogramm steht oben rechts das Logo des Ortsverbands
+hinweise=Installation: Bei hoher Skalierung (z. B. 200 %) sind die Häkchen nicht mehr abgeschnitten, das Logo passt ins Fenster\nDesktop und Startmenü zeigen nach dem Update sofort das neue Programmsymbol
 setup=EDP Power Tool Setup.exe
-setup_sha256=a88d9a4ef114e027765450630da71384acf4154d40ffc02a0d7dfa0b18192f88
-setup_groesse=5197030
+setup_sha256=9b70a764ade80fe6b61dcbd42c9ff3f3cfd5c7ae37729e87f159155fbe663f32
+setup_groesse=5198196
