@@ -1,10 +1,10 @@
 #edp-power-tool-update 1
-version=8.4.1.0
+version=8.4.2.0
 datei=EDP Power Tool.exe
-sha256=1ecb027c5592025a12d4d9b1994c0012e0a04a32626effc5f78fc5995d5f9ed0
-groesse=4171264
+sha256=feeeed55b274d34f3e3be8adc662b7944b3e51946da1d1045b9f9703fa6ae85e
+groesse=4172800
 datum=25.10.2026
-hinweise=Herausgeber: Johanniter-Unfall-Hilfe e. V., Ortsverband Wunstorf-Steinhuder Meer\nAnleitung mit neuen Bildern, Installation mit eigenen Texten\nKopfzeile und Seitenleiste überlappen nicht mehr
+hinweise=Updates zuverlässiger: Ist das Programm noch in einem zweiten Fenster geöffnet, bittet es vor dem Update darum, es zu schließen\nDas Installationsprogramm wartet kurz, bis sich das Programm beendet hat\nErsetzt eine neuere EXE die Installation, geht dabei nichts mehr verloren; die App-Liste zeigt den richtigen Herausgeber
 setup=EDP Power Tool Setup.exe
-setup_sha256=877039fc1de04c94862f63500a838c25fbce75471335e362052467b4ba1b765d
-setup_groesse=5087418
+setup_sha256=92c280cf3e2e55ce05c11e3f68f733d124da4274c457044f6eca326da151b63e
+setup_groesse=5088139
