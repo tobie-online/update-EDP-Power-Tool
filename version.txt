@@ -1,7 +1,7 @@
 #edp-power-tool-update 1
-version=8.2.0.0
+version=8.2.1.0
 datei=EDP Power Tool.exe
-sha256=955eca756d4890fa019d66f0eaa1ae5d6e65aefabf17c1082691da5974f853f1
-groesse=6640128
+sha256=53d61a04180f1d5495e5223909c471fa8aeab467cadc922ac9e459fd71cdfcc2
+groesse=6640640
 datum=25.10.2026
-hinweise=Installation, Updates und Deinstallation: Das Programm installiert sich auf Wunsch selbst (ohne Administratorrechte), sucht täglich nach neuen Versionen und lässt sich über die App-Liste entfernen.\nAnleitung im Programm: Knopf ? oben rechts oder F1.\nProgrammsymbol in allen Größen scharf, auch bei 125 % und 175 % Skalierung.\nNeuer Bereich Programm in den Einstellungen.
+hinweise=Einstellungen: Die Update-Quelle wird wieder angezeigt.\nEinstellungen: Texte überlappen nicht mehr, auch nicht bei großer Skalierung.
