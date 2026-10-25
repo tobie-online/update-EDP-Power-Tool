@@ -1,7 +1,10 @@
 #edp-power-tool-update 1
-version=8.2.1.0
+version=8.3.0.0
 datei=EDP Power Tool.exe
-sha256=53d61a04180f1d5495e5223909c471fa8aeab467cadc922ac9e459fd71cdfcc2
-groesse=6640640
+sha256=e5249e1a4f79de6b1a4a2429dec55170f1f2c0c758e69ae2c35f10e81ab1f259
+groesse=6646784
 datum=25.10.2026
-hinweise=Einstellungen: Die Update-Quelle wird wieder angezeigt.\nEinstellungen: Texte überlappen nicht mehr, auch nicht bei großer Skalierung.
+hinweise=Richtiges Installationsprogramm mit Assistent und Fortschrittsbalken; Updates laden mit Fortschrittsanzeige.\nDeinstallieren zeigt den Fortschritt und löscht auf Wunsch wirklich alle Daten.\nDas Programm läuft nur noch installiert; eine neuere EXE hebt die Installation auf ihre Version.\nEinstellungen: Update-Quelle sichtbar, nichts überlappt mehr.
+setup=EDP Power Tool Setup.exe
+setup_sha256=d785219845ff74fbc686b05bf2f0c1fc03274b194679367801737943c35361ee
+setup_groesse=6170031
