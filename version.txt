@@ -1,10 +1,10 @@
 #edp-power-tool-update 1
-version=8.4.4.0
-datei=EDP Power Tool.exe
-sha256=559bf5b69274fb6020baeb5dbf62df90e3334ea565512d0d4a6377b6f99e5a98
-groesse=4173312
+version=8.4.6.0
+datei=EDP Power Tool 8.4.6.exe
+sha256=01204a300e1e73a93a1de2c2d8aabf8a1a9d5969219fb2af693c67d35ad8511f
+groesse=4180480
 datum=25.10.2026
-hinweise=Installation: Bei hoher Skalierung (z. B. 200 %) sind die Häkchen nicht mehr abgeschnitten, das Logo passt ins Fenster\nDesktop und Startmenü zeigen nach dem Update sofort das neue Programmsymbol
-setup=EDP Power Tool Setup.exe
-setup_sha256=9b70a764ade80fe6b61dcbd42c9ff3f3cfd5c7ae37729e87f159155fbe663f32
-setup_groesse=5198196
+hinweise=Mehrere Bildschirme: Beim Wechsel auf einen Bildschirm mit anderer Skalierung passen sich Fenster und Schrift an und bleiben scharf\nFehler: Statt des technischen Windows-Dialogs kommt eine verständliche Meldung, Einzelheiten im Fehlerprotokoll zum Weitergeben\nInstallation: Das Logo des Ortsverbands steht größer im Kopf\nUpdates klappen jetzt auch direkt nach dem Veröffentlichen einer neuen Version
+setup=EDP Power Tool Setup 8.4.6.exe
+setup_sha256=b96ceaff5bda22a66b58e2558ac03a99c8458c5a83a4f9b8867bdde8a3e4a689
+setup_groesse=5266485
