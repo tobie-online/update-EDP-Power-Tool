@@ -1,10 +1,11 @@
 #edp-power-tool-update 1
-version=8.4.6.0
-datei=EDP Power Tool 8.4.6.exe
-sha256=01204a300e1e73a93a1de2c2d8aabf8a1a9d5969219fb2af693c67d35ad8511f
-groesse=4180480
-datum=25.10.2026
-hinweise=Mehrere Bildschirme: Beim Wechsel auf einen Bildschirm mit anderer Skalierung passen sich Fenster und Schrift an und bleiben scharf\nFehler: Statt des technischen Windows-Dialogs kommt eine verständliche Meldung, Einzelheiten im Fehlerprotokoll zum Weitergeben\nInstallation: Das Logo des Ortsverbands steht größer im Kopf\nUpdates klappen jetzt auch direkt nach dem Veröffentlichen einer neuen Version
-setup=EDP Power Tool Setup 8.4.6.exe
-setup_sha256=b96ceaff5bda22a66b58e2558ac03a99c8458c5a83a4f9b8867bdde8a3e4a689
-setup_groesse=5266485
+version=8.4.7.0
+datei=EDP Power Tool 8.4.7.exe
+sha256=22427e143412d1b7a7889d55ee90b5ec8b9aa4ef8090c6a62e3726121526e7ca
+groesse=4186112
+datum=30.10.2026
+hinweise=Sicherheit: Die Traccar-Anmeldung geht nur noch verschlüsselt (https://) und nur an den eingestellten Server; nach einem Serverwechsel wird sie neu abgefragt\nUpdates: Das Programm meldet, wenn die Update-Quelle veraltet ist, und nimmt zusätzlich einen offline verwahrten Notfallschlüssel an\nAlarmaufgaben: Zeilenumbrüche in Werten können die erzeugte SQL nicht mehr zerlegen
+gueltig_bis=2027-04-28
+setup=EDP Power Tool Setup 8.4.7.exe
+setup_sha256=0370a43519aca77eb6cf3e9cc932c95e03db78494fccbda8f959e41a40a58967
+setup_groesse=5269817
